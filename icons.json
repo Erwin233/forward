@@ -1,0 +1,10 @@
+{
+  "name": "我的Remux图标库",
+  "description": "Remux格式专属图标",
+  "icons": [
+    {
+      "name": "Remux",
+      "url": "https://cdn.jsdelivr.net/gh/Erwin233/forward@main/remux.png"
+    }
+  ]
+}
